@@ -18,5 +18,12 @@ Die Übungsaufgabe, Musterlösunge und die Daten stammen aus dem Udemy- Kurs <a 
 
 # Binder Badge K Means Clustering
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/katjanein91/K-Means-Clustering/master?filepath=K%20Means%20Clustering%20Projekt%20Aufgaben_geloest.ipynb)
 
+Durch das Anklicken des blauen badge oben oder über folgende URL erhälst man Zugriff zu Binder um die Musterlösung auszuführen:
+<a href = "https://mybinder.org/v2/gh/katjanein91/K-Means-Clustering/master?filepath=K%20Means%20Clustering%20Projekt%20Aufgaben_geloest.ipynb"> K Means Clustering Projekt  Aufgaben_geloes </a>
+
+Das Jupiter Notebook mit der Musterlösung wird im Browser geöffnet.\
+Wähle unter dem Reiter 'Cell' --> 'Run All' aus um den Python Code auszuführen.\
+Das erwartete Ergebnis zu den jeweiligen Aufgaben wird in der Output Zelle angezeigt.
 
