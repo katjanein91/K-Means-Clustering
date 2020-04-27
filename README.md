@@ -27,3 +27,4 @@ Das Jupiter Notebook mit der Musterlösung wird im Browser geöffnet.\
 Wähle unter dem Reiter 'Cell' --> 'Run All' aus um den Python Code auszuführen.\
 Das erwartete Ergebnis zu den jeweiligen Aufgaben wird in der Output Zelle angezeigt.
 
+
